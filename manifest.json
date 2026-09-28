@@ -1,0 +1,33 @@
+{
+  "name": "Kinny English AI — உங்கள் தனிப்பட்ட AI ஆங்கில ஆசிரியர்",
+  "short_name": "Kinny",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#FF6B35",
+  "background_color": "#0F1115",
+  "description": "Kinny English AI — உங்கள் தனிப்பட்ட AI ஆங்கில ஆசிரியர்",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "./pwa-icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./pwa-icons/maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
